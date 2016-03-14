@@ -1,0 +1,3249 @@
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896421104.jpg -bg tmp -vec samples/image_11456896421104.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896421104.jpg
+Vec file name: samples/image_11456896421104.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896421104copy.jpg -bg tmp -vec samples/image_11456896421104copy.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896421104copy.jpg
+Vec file name: samples/image_11456896421104copy.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896421104copy2.jpg -bg tmp -vec samples/image_11456896421104copy2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896421104copy2.jpg
+Vec file name: samples/image_11456896421104copy2.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896421104copy3.jpg -bg tmp -vec samples/image_11456896421104copy3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896421104copy3.jpg
+Vec file name: samples/image_11456896421104copy3.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896421104copy4.jpg -bg tmp -vec samples/image_11456896421104copy4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896421104copy4.jpg
+Vec file name: samples/image_11456896421104copy4.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896421104copy5.jpg -bg tmp -vec samples/image_11456896421104copy5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896421104copy5.jpg
+Vec file name: samples/image_11456896421104copy5.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896421104copy6.jpg -bg tmp -vec samples/image_11456896421104copy6.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896421104copy6.jpg
+Vec file name: samples/image_11456896421104copy6.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896481214 2.jpg -bg tmp -vec samples/image_11456896481214 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896481214
+Vec file name: samples/image_11456896481214
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896481214 3.jpg -bg tmp -vec samples/image_11456896481214 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896481214
+Vec file name: samples/image_11456896481214
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896481214 4.jpg -bg tmp -vec samples/image_11456896481214 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896481214
+Vec file name: samples/image_11456896481214
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896481214 5.jpg -bg tmp -vec samples/image_11456896481214 5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896481214
+Vec file name: samples/image_11456896481214
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896481214 6.jpg -bg tmp -vec samples/image_11456896481214 6.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896481214
+Vec file name: samples/image_11456896481214
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896481214 7.jpg -bg tmp -vec samples/image_11456896481214 7.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896481214
+Vec file name: samples/image_11456896481214
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896481214 8.jpg -bg tmp -vec samples/image_11456896481214 8.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896481214
+Vec file name: samples/image_11456896481214
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896481214.jpg -bg tmp -vec samples/image_11456896481214.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896481214.jpg
+Vec file name: samples/image_11456896481214.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 10.jpg -bg tmp -vec samples/image_11456896541677 10.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 11.jpg -bg tmp -vec samples/image_11456896541677 11.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 12.jpg -bg tmp -vec samples/image_11456896541677 12.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 13.jpg -bg tmp -vec samples/image_11456896541677 13.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 14.jpg -bg tmp -vec samples/image_11456896541677 14.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 15.jpg -bg tmp -vec samples/image_11456896541677 15.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 2.jpg -bg tmp -vec samples/image_11456896541677 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 3.jpg -bg tmp -vec samples/image_11456896541677 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 4.jpg -bg tmp -vec samples/image_11456896541677 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 5.jpg -bg tmp -vec samples/image_11456896541677 5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 6.jpg -bg tmp -vec samples/image_11456896541677 6.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 7.jpg -bg tmp -vec samples/image_11456896541677 7.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 8.jpg -bg tmp -vec samples/image_11456896541677 8.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677 9.jpg -bg tmp -vec samples/image_11456896541677 9.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677
+Vec file name: samples/image_11456896541677
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896541677.jpg -bg tmp -vec samples/image_11456896541677.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896541677.jpg
+Vec file name: samples/image_11456896541677.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896729715 2.jpg -bg tmp -vec samples/image_11456896729715 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896729715
+Vec file name: samples/image_11456896729715
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896729715 3.jpg -bg tmp -vec samples/image_11456896729715 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896729715
+Vec file name: samples/image_11456896729715
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896729715 4.jpg -bg tmp -vec samples/image_11456896729715 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896729715
+Vec file name: samples/image_11456896729715
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896729715 5.jpg -bg tmp -vec samples/image_11456896729715 5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896729715
+Vec file name: samples/image_11456896729715
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896729715.jpg -bg tmp -vec samples/image_11456896729715.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896729715.jpg
+Vec file name: samples/image_11456896729715.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896797819 2.jpg -bg tmp -vec samples/image_11456896797819 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896797819
+Vec file name: samples/image_11456896797819
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896797819 3.jpg -bg tmp -vec samples/image_11456896797819 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896797819
+Vec file name: samples/image_11456896797819
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896797819 4.jpg -bg tmp -vec samples/image_11456896797819 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896797819
+Vec file name: samples/image_11456896797819
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896797819 5.jpg -bg tmp -vec samples/image_11456896797819 5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896797819
+Vec file name: samples/image_11456896797819
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896797819 6.jpg -bg tmp -vec samples/image_11456896797819 6.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896797819
+Vec file name: samples/image_11456896797819
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896797819.jpg -bg tmp -vec samples/image_11456896797819.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896797819.jpg
+Vec file name: samples/image_11456896797819.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896918041 2.jpg -bg tmp -vec samples/image_11456896918041 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896918041
+Vec file name: samples/image_11456896918041
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896918041 3.jpg -bg tmp -vec samples/image_11456896918041 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896918041
+Vec file name: samples/image_11456896918041
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896918041 4.jpg -bg tmp -vec samples/image_11456896918041 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896918041
+Vec file name: samples/image_11456896918041
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896918041 5.jpg -bg tmp -vec samples/image_11456896918041 5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896918041
+Vec file name: samples/image_11456896918041
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896918041 6.jpg -bg tmp -vec samples/image_11456896918041 6.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896918041
+Vec file name: samples/image_11456896918041
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896918041 7.jpg -bg tmp -vec samples/image_11456896918041 7.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896918041
+Vec file name: samples/image_11456896918041
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896918041 8.jpg -bg tmp -vec samples/image_11456896918041 8.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896918041
+Vec file name: samples/image_11456896918041
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456896918041.jpg -bg tmp -vec samples/image_11456896918041.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456896918041.jpg
+Vec file name: samples/image_11456896918041.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456897730065.jpg -bg tmp -vec samples/image_11456897730065.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456897730065.jpg
+Vec file name: samples/image_11456897730065.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456897910842.jpg -bg tmp -vec samples/image_11456897910842.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456897910842.jpg
+Vec file name: samples/image_11456897910842.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898100579 2.jpg -bg tmp -vec samples/image_11456898100579 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898100579
+Vec file name: samples/image_11456898100579
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898100579 3.jpg -bg tmp -vec samples/image_11456898100579 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898100579
+Vec file name: samples/image_11456898100579
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898100579.jpg -bg tmp -vec samples/image_11456898100579.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898100579.jpg
+Vec file name: samples/image_11456898100579.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898296980 2.jpg -bg tmp -vec samples/image_11456898296980 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898296980
+Vec file name: samples/image_11456898296980
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898296980 3.jpg -bg tmp -vec samples/image_11456898296980 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898296980
+Vec file name: samples/image_11456898296980
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898296980 4.jpg -bg tmp -vec samples/image_11456898296980 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898296980
+Vec file name: samples/image_11456898296980
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898296980 5.jpg -bg tmp -vec samples/image_11456898296980 5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898296980
+Vec file name: samples/image_11456898296980
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898296980.jpg -bg tmp -vec samples/image_11456898296980.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898296980.jpg
+Vec file name: samples/image_11456898296980.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898417384 2.jpg -bg tmp -vec samples/image_11456898417384 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898417384
+Vec file name: samples/image_11456898417384
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898417384 3.jpg -bg tmp -vec samples/image_11456898417384 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898417384
+Vec file name: samples/image_11456898417384
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898417384 4.jpg -bg tmp -vec samples/image_11456898417384 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898417384
+Vec file name: samples/image_11456898417384
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898417384 5.jpg -bg tmp -vec samples/image_11456898417384 5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898417384
+Vec file name: samples/image_11456898417384
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898417384 6.jpg -bg tmp -vec samples/image_11456898417384 6.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898417384
+Vec file name: samples/image_11456898417384
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898417384 7.jpg -bg tmp -vec samples/image_11456898417384 7.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898417384
+Vec file name: samples/image_11456898417384
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898417384.jpg -bg tmp -vec samples/image_11456898417384.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898417384.jpg
+Vec file name: samples/image_11456898417384.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898478871.jpg -bg tmp -vec samples/image_11456898478871.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898478871.jpg
+Vec file name: samples/image_11456898478871.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898605734 2.jpg -bg tmp -vec samples/image_11456898605734 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898605734
+Vec file name: samples/image_11456898605734
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898605734.jpg -bg tmp -vec samples/image_11456898605734.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898605734.jpg
+Vec file name: samples/image_11456898605734.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898725954 2.jpg -bg tmp -vec samples/image_11456898725954 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898725954
+Vec file name: samples/image_11456898725954
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898725954.jpg -bg tmp -vec samples/image_11456898725954.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898725954.jpg
+Vec file name: samples/image_11456898725954.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898788872 2.jpg -bg tmp -vec samples/image_11456898788872 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898788872
+Vec file name: samples/image_11456898788872
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898788872 3.jpg -bg tmp -vec samples/image_11456898788872 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898788872
+Vec file name: samples/image_11456898788872
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898788872 4.jpg -bg tmp -vec samples/image_11456898788872 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898788872
+Vec file name: samples/image_11456898788872
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898788872 5.jpg -bg tmp -vec samples/image_11456898788872 5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898788872
+Vec file name: samples/image_11456898788872
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898788872 6.jpg -bg tmp -vec samples/image_11456898788872 6.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898788872
+Vec file name: samples/image_11456898788872
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898788872.jpg -bg tmp -vec samples/image_11456898788872.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898788872.jpg
+Vec file name: samples/image_11456898788872.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898853240 2.jpg -bg tmp -vec samples/image_11456898853240 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898853240
+Vec file name: samples/image_11456898853240
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11456898853240.jpg -bg tmp -vec samples/image_11456898853240.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11456898853240.jpg
+Vec file name: samples/image_11456898853240.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457856557650.jpg -bg tmp -vec samples/image_11457856557650.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457856557650.jpg
+Vec file name: samples/image_11457856557650.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457856621645.jpg -bg tmp -vec samples/image_11457856621645.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457856621645.jpg
+Vec file name: samples/image_11457856621645.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457856681861 2.jpg -bg tmp -vec samples/image_11457856681861 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457856681861
+Vec file name: samples/image_11457856681861
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457856681861 3.jpg -bg tmp -vec samples/image_11457856681861 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457856681861
+Vec file name: samples/image_11457856681861
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457856681861 4.jpg -bg tmp -vec samples/image_11457856681861 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457856681861
+Vec file name: samples/image_11457856681861
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457856681861 5.jpg -bg tmp -vec samples/image_11457856681861 5.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457856681861
+Vec file name: samples/image_11457856681861
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457856681861.jpg -bg tmp -vec samples/image_11457856681861.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457856681861.jpg
+Vec file name: samples/image_11457856681861.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457857713043.jpg -bg tmp -vec samples/image_11457857713043.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457857713043.jpg
+Vec file name: samples/image_11457857713043.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457859799432.jpg -bg tmp -vec samples/image_11457859799432.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457859799432.jpg
+Vec file name: samples/image_11457859799432.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457860124154 2.jpg -bg tmp -vec samples/image_11457860124154 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457860124154
+Vec file name: samples/image_11457860124154
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457860124154 3.jpg -bg tmp -vec samples/image_11457860124154 3.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457860124154
+Vec file name: samples/image_11457860124154
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457860124154 4.jpg -bg tmp -vec samples/image_11457860124154 4.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457860124154
+Vec file name: samples/image_11457860124154
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_11457860124154.jpg -bg tmp -vec samples/image_11457860124154.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_11457860124154.jpg
+Vec file name: samples/image_11457860124154.jpg.vec
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456898168180 2.jpg -bg tmp -vec samples/image_21456898168180 2.jpg.vec -num 18
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456898168180
+Vec file name: samples/image_21456898168180
+BG  file name: tmp
+Num: 18
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456898168180.jpg -bg tmp -vec samples/image_21456898168180.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456898168180.jpg
+Vec file name: samples/image_21456898168180.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456898230130 2.jpg -bg tmp -vec samples/image_21456898230130 2.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456898230130
+Vec file name: samples/image_21456898230130
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456898230130.jpg -bg tmp -vec samples/image_21456898230130.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456898230130.jpg
+Vec file name: samples/image_21456898230130.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456898417378.jpg -bg tmp -vec samples/image_21456898417378.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456898417378.jpg
+Vec file name: samples/image_21456898417378.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456898478871.jpg -bg tmp -vec samples/image_21456898478871.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456898478871.jpg
+Vec file name: samples/image_21456898478871.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456899900507 2.jpg -bg tmp -vec samples/image_21456899900507 2.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456899900507
+Vec file name: samples/image_21456899900507
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456899900507 3.jpg -bg tmp -vec samples/image_21456899900507 3.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456899900507
+Vec file name: samples/image_21456899900507
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456899900507 4.jpg -bg tmp -vec samples/image_21456899900507 4.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456899900507
+Vec file name: samples/image_21456899900507
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456899900507 5.jpg -bg tmp -vec samples/image_21456899900507 5.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456899900507
+Vec file name: samples/image_21456899900507
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456899900507 6.jpg -bg tmp -vec samples/image_21456899900507 6.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456899900507
+Vec file name: samples/image_21456899900507
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456899900507 7.jpg -bg tmp -vec samples/image_21456899900507 7.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456899900507
+Vec file name: samples/image_21456899900507
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456899900507 8.jpg -bg tmp -vec samples/image_21456899900507 8.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456899900507
+Vec file name: samples/image_21456899900507
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456899900507.jpg -bg tmp -vec samples/image_21456899900507.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456899900507.jpg
+Vec file name: samples/image_21456899900507.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456901704350.jpg -bg tmp -vec samples/image_21456901704350.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456901704350.jpg
+Vec file name: samples/image_21456901704350.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456902006683.jpg -bg tmp -vec samples/image_21456902006683.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456902006683.jpg
+Vec file name: samples/image_21456902006683.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456902450672.jpg -bg tmp -vec samples/image_21456902450672.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456902450672.jpg
+Vec file name: samples/image_21456902450672.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456903304906.jpg -bg tmp -vec samples/image_21456903304906.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456903304906.jpg
+Vec file name: samples/image_21456903304906.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456903787095.jpg -bg tmp -vec samples/image_21456903787095.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456903787095.jpg
+Vec file name: samples/image_21456903787095.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456903847175.jpg -bg tmp -vec samples/image_21456903847175.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456903847175.jpg
+Vec file name: samples/image_21456903847175.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456905544028.jpg -bg tmp -vec samples/image_21456905544028.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456905544028.jpg
+Vec file name: samples/image_21456905544028.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456907181094.jpg -bg tmp -vec samples/image_21456907181094.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456907181094.jpg
+Vec file name: samples/image_21456907181094.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456907421523.jpg -bg tmp -vec samples/image_21456907421523.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456907421523.jpg
+Vec file name: samples/image_21456907421523.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456908758740.jpg -bg tmp -vec samples/image_21456908758740.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456908758740.jpg
+Vec file name: samples/image_21456908758740.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456909000651 2.jpg -bg tmp -vec samples/image_21456909000651 2.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456909000651
+Vec file name: samples/image_21456909000651
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456909000651.jpg -bg tmp -vec samples/image_21456909000651.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456909000651.jpg
+Vec file name: samples/image_21456909000651.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456909123372.jpg -bg tmp -vec samples/image_21456909123372.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456909123372.jpg
+Vec file name: samples/image_21456909123372.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456909493392.jpg -bg tmp -vec samples/image_21456909493392.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456909493392.jpg
+Vec file name: samples/image_21456909493392.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456909613561.jpg -bg tmp -vec samples/image_21456909613561.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456909613561.jpg
+Vec file name: samples/image_21456909613561.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456909733728.jpg -bg tmp -vec samples/image_21456909733728.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456909733728.jpg
+Vec file name: samples/image_21456909733728.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456909793810.jpg -bg tmp -vec samples/image_21456909793810.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456909793810.jpg
+Vec file name: samples/image_21456909793810.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456909853886.jpg -bg tmp -vec samples/image_21456909853886.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456909853886.jpg
+Vec file name: samples/image_21456909853886.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456910365084.jpg -bg tmp -vec samples/image_21456910365084.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456910365084.jpg
+Vec file name: samples/image_21456910365084.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456910616237.jpg -bg tmp -vec samples/image_21456910616237.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456910616237.jpg
+Vec file name: samples/image_21456910616237.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456910924617.jpg -bg tmp -vec samples/image_21456910924617.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456910924617.jpg
+Vec file name: samples/image_21456910924617.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456910984691.jpg -bg tmp -vec samples/image_21456910984691.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456910984691.jpg
+Vec file name: samples/image_21456910984691.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456911425645.jpg -bg tmp -vec samples/image_21456911425645.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456911425645.jpg
+Vec file name: samples/image_21456911425645.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456911486636.jpg -bg tmp -vec samples/image_21456911486636.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456911486636.jpg
+Vec file name: samples/image_21456911486636.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456911612667 2.jpg -bg tmp -vec samples/image_21456911612667 2.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456911612667
+Vec file name: samples/image_21456911612667
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456911612667.jpg -bg tmp -vec samples/image_21456911612667.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456911612667.jpg
+Vec file name: samples/image_21456911612667.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456911672739.jpg -bg tmp -vec samples/image_21456911672739.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456911672739.jpg
+Vec file name: samples/image_21456911672739.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456913003290.jpg -bg tmp -vec samples/image_21456913003290.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456913003290.jpg
+Vec file name: samples/image_21456913003290.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456913369340.jpg -bg tmp -vec samples/image_21456913369340.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456913369340.jpg
+Vec file name: samples/image_21456913369340.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456913429418.jpg -bg tmp -vec samples/image_21456913429418.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456913429418.jpg
+Vec file name: samples/image_21456913429418.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456913852639.jpg -bg tmp -vec samples/image_21456913852639.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456913852639.jpg
+Vec file name: samples/image_21456913852639.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456913912722.jpg -bg tmp -vec samples/image_21456913912722.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456913912722.jpg
+Vec file name: samples/image_21456913912722.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456913972806.jpg -bg tmp -vec samples/image_21456913972806.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456913972806.jpg
+Vec file name: samples/image_21456913972806.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456914277773.jpg -bg tmp -vec samples/image_21456914277773.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456914277773.jpg
+Vec file name: samples/image_21456914277773.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456914519578.jpg -bg tmp -vec samples/image_21456914519578.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456914519578.jpg
+Vec file name: samples/image_21456914519578.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456914759983.jpg -bg tmp -vec samples/image_21456914759983.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456914759983.jpg
+Vec file name: samples/image_21456914759983.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 10.jpg -bg tmp -vec samples/image_21456974069200 10.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 11.jpg -bg tmp -vec samples/image_21456974069200 11.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 2.jpg -bg tmp -vec samples/image_21456974069200 2.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 3.jpg -bg tmp -vec samples/image_21456974069200 3.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 4.jpg -bg tmp -vec samples/image_21456974069200 4.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 5.jpg -bg tmp -vec samples/image_21456974069200 5.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 6.jpg -bg tmp -vec samples/image_21456974069200 6.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 7.jpg -bg tmp -vec samples/image_21456974069200 7.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 8.jpg -bg tmp -vec samples/image_21456974069200 8.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200 9.jpg -bg tmp -vec samples/image_21456974069200 9.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200
+Vec file name: samples/image_21456974069200
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974069200.jpg -bg tmp -vec samples/image_21456974069200.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974069200.jpg
+Vec file name: samples/image_21456974069200.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974195301 2.jpg -bg tmp -vec samples/image_21456974195301 2.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974195301
+Vec file name: samples/image_21456974195301
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974195301 3.jpg -bg tmp -vec samples/image_21456974195301 3.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974195301
+Vec file name: samples/image_21456974195301
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21456974195301.jpg -bg tmp -vec samples/image_21456974195301.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21456974195301.jpg
+Vec file name: samples/image_21456974195301.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457017173940.jpg -bg tmp -vec samples/image_21457017173940.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457017173940.jpg
+Vec file name: samples/image_21457017173940.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457019362252 2.jpg -bg tmp -vec samples/image_21457019362252 2.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457019362252
+Vec file name: samples/image_21457019362252
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457019362252 3.jpg -bg tmp -vec samples/image_21457019362252 3.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457019362252
+Vec file name: samples/image_21457019362252
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457019362252.jpg -bg tmp -vec samples/image_21457019362252.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457019362252.jpg
+Vec file name: samples/image_21457019362252.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457856365684 2.jpg -bg tmp -vec samples/image_21457856365684 2.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457856365684
+Vec file name: samples/image_21457856365684
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457856365684 3.jpg -bg tmp -vec samples/image_21457856365684 3.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457856365684
+Vec file name: samples/image_21457856365684
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457856365684 4.jpg -bg tmp -vec samples/image_21457856365684 4.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457856365684
+Vec file name: samples/image_21457856365684
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457856365684 5.jpg -bg tmp -vec samples/image_21457856365684 5.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457856365684
+Vec file name: samples/image_21457856365684
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457856365684 6.jpg -bg tmp -vec samples/image_21457856365684 6.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457856365684
+Vec file name: samples/image_21457856365684
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457856365684 7.jpg -bg tmp -vec samples/image_21457856365684 7.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457856365684
+Vec file name: samples/image_21457856365684
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457856365684.jpg -bg tmp -vec samples/image_21457856365684.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457856365684.jpg
+Vec file name: samples/image_21457856365684.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457856621645.jpg -bg tmp -vec samples/image_21457856621645.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457856621645.jpg
+Vec file name: samples/image_21457856621645.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457857956980.jpg -bg tmp -vec samples/image_21457857956980.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457857956980.jpg
+Vec file name: samples/image_21457857956980.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457858093254.jpg -bg tmp -vec samples/image_21457858093254.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457858093254.jpg
+Vec file name: samples/image_21457858093254.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done
+opencv_createsamples -bgcolor 0 -bgthresh 0 -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 40 -w 80 -h 40 -img ./positive_images/image_21457858286625.jpg -bg tmp -vec samples/image_21457858286625.jpg.vec -num 17
+Info file name: (NULL)
+Img file name: ./positive_images/image_21457858286625.jpg
+Vec file name: samples/image_21457858286625.jpg.vec
+BG  file name: tmp
+Num: 17
+BG color: 0
+BG threshold: 0
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 1.1
+Max y angle: 1.1
+Max z angle: 0.5
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 80
+	Height: $backgroundHeight / 40
+Create training samples from single image applying distortions...
+  0%      Done

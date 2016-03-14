@@ -20,6 +20,12 @@
 ./samples/image_11456898725954.jpg.vec
 ./samples/image_11456898788872.jpg.vec
 ./samples/image_11456898853240.jpg.vec
+./samples/image_11457856557650.jpg.vec
+./samples/image_11457856621645.jpg.vec
+./samples/image_11457856681861.jpg.vec
+./samples/image_11457857713043.jpg.vec
+./samples/image_11457859799432.jpg.vec
+./samples/image_11457860124154.jpg.vec
 ./samples/image_21456898168180.jpg.vec
 ./samples/image_21456898230130.jpg.vec
 ./samples/image_21456898417378.jpg.vec
@@ -60,3 +66,11 @@
 ./samples/image_21456914519578.jpg.vec
 ./samples/image_21456914759983.jpg.vec
 ./samples/image_21456974069200.jpg.vec
+./samples/image_21456974195301.jpg.vec
+./samples/image_21457017173940.jpg.vec
+./samples/image_21457019362252.jpg.vec
+./samples/image_21457856365684.jpg.vec
+./samples/image_21457856621645.jpg.vec
+./samples/image_21457857956980.jpg.vec
+./samples/image_21457858093254.jpg.vec
+./samples/image_21457858286625.jpg.vec
